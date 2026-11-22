@@ -1,0 +1,10 @@
+# Kaynak kodda kullanılan paketler; özgün ortamın sürüm kilidi değildir.
+# CUDA gereken çalışma için PyTorch'u önce donanıma uygun resmî komutla kurun.
+numpy
+pandas
+scikit-learn
+torch
+opencv-python
+matplotlib
+jupyterlab
+ipykernel

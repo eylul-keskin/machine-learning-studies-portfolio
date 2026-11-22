@@ -1,0 +1,24 @@
+# Python ve notebook çalışma dosyaları
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Yerel ortam ve erişim bilgileri
+.env
+.env.*
+
+# Veri kümeleri ve eğitim çıktıları
+archive/
+checkpoints/
+results/
+demo_examples/
+*.pt
+*.pth
+*.ckpt
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+Desktop.ini

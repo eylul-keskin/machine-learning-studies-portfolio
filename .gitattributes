@@ -1,0 +1,4 @@
+# Özgün notebook baytlarını koru.
+*.ipynb -text
+*.md text eol=lf
+*.txt text eol=lf
